@@ -6,9 +6,10 @@
 <p align="left">
   After 12 years of experience in <strong>Marketing</strong> and <strong>Business Development</strong> in a digital environment, I completed my <strong>Web
   Development</strong> training at Le Wagon to enhance my understanding of the technical aspects of my field. This has enabled me
-  to test product ideas and transition into a potential Product Manager role. Currently, I'm actively engaged in
+  to test product ideas and transition into a potential Product Manager role.
+  <br><br>Currently, I'm actively engaged in
   refining and enhancing my Wagon's final project, <strong>StoryTime</strong>, to transform it into a polished and finished product.
-  <br>I'm excited about the prospect of applying my newfound technical skills and marketing expertise to bring StoryTime to its
+  <br><br>I'm excited about the prospect of applying my newfound technical skills and marketing expertise to bring StoryTime to its
   full potential and deliver a valuable solution to users.
 </p>
 <h3 align="left">Connect with me:</h3>
