@@ -11,7 +11,7 @@
   Development</strong> training at Le Wagon to enhance my understanding of the technical aspects of my field. This has enabled me
   to test product ideas and transition into a potential Product Manager role.
   <br><br>Currently, I'm actively engaged in
-  refining and enhancing my Wagon's final project, <a href="https://www.storytime.day/"></a><strong>StoryTime</strong></a>, to transform it into a polished and finished product.
+  refining and enhancing my Wagon's final project, <a href="https://www.storytime.day/"><strong>StoryTime</strong></a>, to transform it into a polished and finished product.
   <br><br>I'm excited about the prospect of applying my newfound technical skills and marketing expertise to bring StoryTime to its
   full potential and deliver a valuable solution to users.
 </p>
