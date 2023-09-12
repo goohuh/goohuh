@@ -14,8 +14,7 @@
   enabled me to test product ideas and will help my transition into a <strong>Product Manager</strong> role.
   <br><br>Currently, I'm actively engaged in
   refining and enhancing my Wagon's final project, <a href="https://www.storytime.day/"><strong>StoryTime</strong></a>,
-  to transform it into a polished and finished product.
-  <br>I'm excited about the prospect of applying my newfound technical skills and marketing expertise to bring
+  to transform it into a polished and finished product. I'm excited about the prospect of applying my newfound technical skills and marketing       expertise to bring
   StoryTime to its full potential and deliver a valuable solution to users.
 </p>
 <h3 align="left">Connect with me:</h3>
