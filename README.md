@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnaud</h1>
-<h3 align="center">Marketing / Web Development / Product Management
-  <br>Ex-Le Wagon, Luko, Cheerz, Bouygues Telecom
-</h3>
+<h3 align="center">Marketing / Web Development / Product Management</h3>
+<h4 align="center">Ex-Le Wagon, Luko, Cheerz, Bouygues Telecom</h4>
 
 - 🔭 I’m currently working on [StoryTime](https://www.storytime.day/)
 
