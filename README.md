@@ -11,7 +11,7 @@
   After 12 years of experience in <strong>Marketing</strong> and <strong>Business Development</strong> in a digital
   environment, I completed my <strong>Web Development</strong> training at Le Wagon to enhance my understanding of the
   technical aspects of my field. This has
-  enabled me to test product ideas and will help me transition into a potential Product Manager role.
+  enabled me to test product ideas and will help my transition into a <strong>Product Manager</strong> role.
   <br><br>Currently, I'm actively engaged in
   refining and enhancing my Wagon's final project, <a href="https://www.storytime.day/"><strong>StoryTime</strong></a>,
   to transform it into a polished and finished product.
