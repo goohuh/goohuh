@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnaud</h1>
-<h3 align="center">Marketing / Web Development / Product Management</h3>
+<h3 align="center">Marketing | Web Development | Product Management</h3>
 <h4 align="center">Ex-Luko, Cheerz, Bouygues Telecom / Le Wagon Web Dev #1312</h4>
 
 - 🔭 I’m currently working on [StoryTime](https://www.storytime.day/)
