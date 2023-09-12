@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnaud</h1>
 <h3 align="center">Marketing / Web Development / Product Management, Ex-Le Wagon, Luko, Cheerz, Bouygues Telecom</h3>
 
-- 🔭 I’m currently working on [StoryTime](https://storytime.day/)
+- 🔭 I’m currently working on [StoryTime](https://www.storytime.day/)
 
 - 📫 How to reach me **arnaud.legaignoux@gmail.com**
 
