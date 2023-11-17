@@ -2,7 +2,7 @@
 <h3 align="center">Marketing | Web Development | Product Management</h3>
 <h4 align="center">Ex-Luko, Cheerz, Bouygues Telecom / Le Wagon Web Dev #1312</h4>
 
-- 🔭 I’m currently working on [StoryTime](https://www.storytime.day/)
+- 🔭 I’m currently working on [Fabulo](https://www.fabulo.app/)
 
 - 📫 How to reach me **arnaud.legaignoux@gmail.com**
 
@@ -13,8 +13,8 @@
   technical aspects of my field. This has
   enabled me to test product ideas and will help my transition into a <strong>Product Manager</strong> role.
   <br><br>Currently, I'm actively engaged in
-  refining and enhancing my Wagon's final project, <a href="https://www.storytime.day/"><strong>StoryTime</strong></a>,
-  to transform it into a polished and finished product. I'm excited about the prospect of applying my newfound technical skills and marketing       expertise to bring
+  refining and enhancing my Wagon's final project, <a href="https://www.fabulo.app/"><strong>Fabulo</strong></a>,
+  to transform it into a polished and finished product. I'm excited about the prospect of applying my newfound technical skills and marketing expertise to bring
   StoryTime to its full potential and deliver a valuable solution to users.
 </p>
 <h3 align="left">Connect with me:</h3>
