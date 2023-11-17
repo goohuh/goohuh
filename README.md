@@ -14,12 +14,12 @@
   enabled me to test product ideas and will help my transition into a <strong>Product Manager</strong> role.
   <br><br>Currently, I'm actively engaged in
   refining and enhancing my Wagon's final project, <a href="https://www.fabulo.app/"><strong>Fabulo</strong></a>,
-  to transform it into a polished and finished product. I'm excited about the prospect of applying my newfound technical skills and marketing expertise to bring
-  StoryTime to its full potential and deliver a valuable solution to users.
+  to transform it into a polished and finished product. I'm excited about the prospect of applying my newfound technical
+  skills and marketing expertise to bring Fabulo to its full potential and deliver a valuable solution to users.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/arnaud.legaignoux" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/arnaudlegaignoux/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="arnaud.legaignoux" height="30" width="40" /></a>
 </p>
