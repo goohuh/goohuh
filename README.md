@@ -17,7 +17,7 @@
     My focus is on evolving <strong>Fabulo</strong> into a fully-realized product. By integrating my <strong>marketing insights</strong> with my <strong>technical skills</strong>, I am dedicated to <strong>maximizing <a href="https://www.fabulo.app/"><strong>Fabulo's</strong></a> potential</strong> and creating a <strong>user-centric solution</strong> that resonates with its audience.
 </p>
 <p align="left">
-    Passionate about all-things-AI, I am committed to ensuring this revolution benefits everyone.
+    <strong>Passionate about all-things-AI</strong>strong>, I am committed to ensuring this revolution benefits <strong>everyone</strong>.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
