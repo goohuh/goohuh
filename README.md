@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Fabulo](https://www.fabulo.app/)
 
-- 📫 How to reach me: +33 6 98 26 54 94 | arnaud.legaignoux@gmail.com
+- 📫 How to reach me: <a href="mailto:arnaud.legaignoux+github@gmail.com">arnaud.legaignoux@gmail.com</a>
 
 <h3 align="left">About me:</h3>
 <p align="left">
