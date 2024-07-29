@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Arnaud</h1>
-<h3 align="center">Marketing | Web Development | Product Management</h3>
+<h3 align="center">Marketing | Product Management | Web Development</h3>
 <h4 align="center">Ex-Luko, Cheerz, Bouygues Telecom / Le Wagon Web Dev #1312</h4>
 
 - 🔭 I’m currently working on [Fabulo](https://www.fabulo.app/)
 
-- 📫 How to reach me **arnaud.legaignoux@gmail.com**
+- 📫 How to reach me: +33 6 98 26 54 94 | arnaud.legaignoux@gmail.com
 
 <h3 align="left">About me:</h3>
 <p align="left">
-    With a solid foundation of <strong>12 years in Marketing and Business Development</strong> in the digital sector, I recently enhanced my skill set by completing a <strong>Web Development course at Le Wagon</strong>. This additional technical expertise is specifically geared towards enabling me to <strong>bootstrap projects</strong> and <strong>deepen my involvement in product-related topics</strong>.
+    Building and scaling <strong>Fabulo</strong> as a solopreneur, an app creating AI-generated bedtime stories.
 </p>
-<p>
-    Currently, my focus is on evolving my final project at Le Wagon, <strong>Fabulo</strong>, into a <strong>fully-realized product</strong>. By integrating my <strong>marketing insights</strong> with these new <strong>technical skills</strong>, I am dedicated to <strong>maximizing <a href="https://www.fabulo.app/"><strong>Fabulo's</strong></a> potential</strong> and creating a <strong>user-centric solution</strong> that resonates with its audience.
+<p align="left">
+    With <strong>13+ years in Marketing and Business Development</strong> at companies like Bouygues Telecom, Cheerz, and Luko, I have a solid foundation in the digital sector. I enhanced my skill set by completing a <strong>Web Development course at Le Wagon</strong>, which enables me to <strong>bootstrap projects</strong> and deepen my involvement in product-related topics.
+</p>
+<p align="left">
+    My focus is on evolving <strong>Fabulo</strong> into a fully-realized product. By integrating my <strong>marketing insights</strong> with my <strong>technical skills</strong>, I am dedicated to <strong>maximizing <a href="https://www.fabulo.app/"><strong>Fabulo's</strong></a> potential</strong> and creating a <strong>user-centric solution</strong> that resonates with its audience.
+</p>
+<p align="left">
+    Passionate about all-things-AI, I am committed to ensuring this revolution benefits everyone.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
