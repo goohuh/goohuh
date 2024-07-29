@@ -28,6 +28,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma,heroku,postgres,ruby,rails,redis" />
+    <img src="https://skillicons.dev/icons?i=figma,react,js,html,css,bootstrap,heroku,postgres,ruby,rails,redis,ableton" />
   </a>
 </p>
